@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "Jitu@gmail.com",
+      "password": "1234",
+      "id": "3a45"
+    },
+    {
+      "username": "Ajay@gmail.com",
+      "password": "12345",
+      "id": "3a46"
+    }
+  ],
+  "employeeData": [
+    {
+      "id": "emp1023",
+      "name": "Alice Johnson 1",
+      "age": "28",
+      "designation": "Software Engineer"
+    },
+    {
+      "id": "emp1087",
+      "name": "Brian Smith",
+      "age": "32",
+      "designation": "Project Manager"
+    },
+    {
+      "id": "emp1154",
+      "name": "Cynthia Lee",
+      "age": 41,
+      "designation": "HR Specialist"
+    },
+    {
+      "id": "emp1099",
+      "name": "David Kim",
+      "age": 27,
+      "designation": "UX Designer"
+    },
+    {
+      "id": "a473",
+      "name": "jitu",
+      "age": "12",
+      "designation": "Admin"
+    }
+  ]
+}

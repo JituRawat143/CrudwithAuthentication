@@ -1,0 +1,20 @@
+.tableHeadData{
+    padding: 10px;
+    background-color: rgb(21, 58, 7);
+    border: 1px solid black;
+}
+.tableRowData{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    background-color:rgb(119, 244, 18); 
+    border: 1px solid black;
+    color: black;
+}
+table{
+    border: 1px solid black;
+    max-width: 90%;
+    width: 80%;
+    color: white;
+}
